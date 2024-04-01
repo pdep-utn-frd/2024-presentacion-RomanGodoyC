@@ -10,7 +10,8 @@ Hola como andan? Me llamo Roman Godoy Crismanich, tengo 23 años y vivo en Escob
 - Me gusta bastante el mate
 - Mi comida favorita es la milanesa (nunca falla)
 - Tambien uno de los deportes que hago es el golf
-!(https://i.pinimg.com/originals/67/f4/d4/67f4d408608f115d75859025af640655.jpg)
+  
+![Imagen prueba](https://i.pinimg.com/originals/67/f4/d4/67f4d408608f115d75859025af640655.jpg)
 
 ### Que espero de la materia
 
